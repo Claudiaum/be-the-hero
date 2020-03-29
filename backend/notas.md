@@ -19,3 +19,14 @@
 
 -- geralmente os dados cadastrais são enviado dentro de
 --REQUEST.HEADERS --
+
+# deploys
+
+-- node.js / react -> Digital Ocean
+-- front-end com react -> netlify
+
+# a verificar
+
+-- padrões de código -> ESLint, Prettier
+-- Autenticação JWT
+-- Styled Components
